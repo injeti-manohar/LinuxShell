@@ -1,0 +1,2 @@
+# LinuxShell
+Mostly Hackerrank questions :)
